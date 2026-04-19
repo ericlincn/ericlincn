@@ -49,6 +49,7 @@ Worked for Alibaba, Alipay, Xiaomi, Amuse Group, and Saatchi & Saatchi.
 | Project | Description |
 | :------ | :---------- |
 | [**light-blue-theme-for-godot**](https://github.com/ericlincn/light-blue-theme-for-godot) | A refreshing theme set with a blue color scheme for Godot 4.0 |
+| [**AVG_Engine**](https://github.com/ericlincn/AVG_Engine) | A lightweight, data-driven Adventure Game (AVG) engine |
 
 ### 🧰 DaftLib Series – Utility Libraries
 | Project | Language | Description |
