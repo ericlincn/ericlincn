@@ -71,6 +71,7 @@ Worked for Alibaba, Alipay, Xiaomi, Amuse Group, and Saatchi & Saatchi.
 ### 🌐 Web Dev & AI Integration
 | Project | Description |
 | :------ | :---------- |
+| [**agent-garden**](https://github.com/ericlincn/agent-garden) | An engineering multi-agent development workflow based on Claude Code, driven by file suffix state machines to automate the entire process from requirements to acceptance. |
 | [**sd-webcam**](https://github.com/ericlincn/sd-webcam) | Flask app that sends webcam raw images to ComfyUI and displays rendered images |
 | [**docker-flask-gunicorn**](https://github.com/ericlincn/docker-flask-gunicorn) | Docker Image Template for flask + gunicorn |
 
