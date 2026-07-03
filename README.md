@@ -64,6 +64,7 @@ Worked for Alibaba, Alipay, Xiaomi, Amuse Group, and Saatchi & Saatchi.
 | :------ | :---------- |
 | [**Code2MD**](https://github.com/ericlincn/Code2MD) | Generate a structured Markdown document from your project's source code |
 | [**diablo-immortal-bot**](https://github.com/ericlincn/diablo-immortal-bot) | UI automation robot based on OpenCV vision |
+| [**Fusion 360 Model Sprue Generator**](https://github.com/ericlincn/fusion-sprue-plate) | Automatically tiles and connects Fusion 360 parts into a sprued frame, merging them into a single solid for 3D printing as a model kit tree |
 | [**bilibili-video-merge**](https://github.com/ericlincn/bilibili-video-merge) | Synthesize locally cached Bilibili video and audio files with subtitles |
 | [**gpt-code-trans**](https://github.com/ericlincn/gpt-code-trans) | Translate source code files into Python (or other languages) |
 | [**SecureFolder**](https://github.com/ericlincn/SecureFolder) | A simple yet efficient folder encryption/decryption tool with filename obfuscation and batch processing |
