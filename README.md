@@ -13,7 +13,6 @@ Worked for Alibaba, Alipay, Xiaomi, Amuse Group, and Saatchi & Saatchi.
 ![ActionScript](https://img.shields.io/badge/ActionScript-882B2B?style=flat-square&logo=adobe&logoColor=white)
 ![Haxe](https://img.shields.io/badge/Haxe-EA8220?style=flat-square&logo=haxe&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![HTML/CSS/JS](https://img.shields.io/badge/Web-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
